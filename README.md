@@ -20,6 +20,6 @@ Tens of thousands of new cases are confirmed daily.
 
 ## Links 
 
-[RED ZONE](https://www.statista.com/chart/22406/list-of-red-zone-states/)
-[Facebook] (https://www.facebook.com/nithya.karepe)
-[World Map-COVID] (https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
+[RED ZONE :](https://www.statista.com/chart/22406/list-of-red-zone-states/)
+[Facebook :] (https://www.facebook.com/nithya.karepe)
+[World Map-COVID :] (https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
