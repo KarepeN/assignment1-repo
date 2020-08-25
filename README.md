@@ -16,6 +16,9 @@ Tens of thousands of new cases are confirmed daily.
 
 ![COVID-19-Card-3](https://user-images.githubusercontent.com/70028952/91119709-7ead8400-e659-11ea-8b95-c2fdfd7686a8.jpg)
 
+* Image Reference 
+[COVID UPDATE ] (https://directorsblog.nih.gov/2020/03/26/genomic-research-points-to-natural-origin-of-covid-19/comment-page-2/)
+
 ## COVID Precautions
 
 * Disinfect the objects frequently used.
@@ -23,6 +26,9 @@ Tens of thousands of new cases are confirmed daily.
 * Wash your hands for 20 seconds or use hand sanitizer.
 
 ![COVID-19_Practice_Safety_Posters](https://user-images.githubusercontent.com/70028952/91120346-0f389400-e65b-11ea-8533-419be31e7eed.jpg)
+
+* Image Reference
+[COVID Precautions] (https://www.texmed.org/Template.aspx?id=53869)
 
 ## Links 
 
@@ -33,3 +39,6 @@ Tens of thousands of new cases are confirmed daily.
 
 
 [World Map-COVID :] (https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
+
+
+
