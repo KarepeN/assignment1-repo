@@ -3,8 +3,14 @@ USA COVID-19
  
  ## COVID Updates
 Total number of cases in USA are 5.74M.
+
+
 Number of deaths as of now 177K.
+
+
 18 states are under red zones as per White House.
+
+
 Tens of thousands of new cases are confirmed daily.
 
 
@@ -21,5 +27,9 @@ Tens of thousands of new cases are confirmed daily.
 ## Links 
 
 [RED ZONE :](https://www.statista.com/chart/22406/list-of-red-zone-states/)
+
+
 [Facebook :] (https://www.facebook.com/nithya.karepe)
+
+
 [World Map-COVID :] (https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
