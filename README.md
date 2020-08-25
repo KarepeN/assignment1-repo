@@ -26,7 +26,7 @@ Tens of thousands of new cases are confirmed daily.
 
 ## Links 
 
-[RED ZONE :](https://www.statista.com/chart/22406/list-of-red-zone-states/)
+[RED ZONE :] (https://www.statista.com/chart/22406/list-of-red-zone-states/)
 
 
 [Facebook :] (https://www.facebook.com/nithya.karepe)
